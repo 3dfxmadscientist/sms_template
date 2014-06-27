@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_sms_template,sms.template,model_sms_template,,1,1,1,0
+access_sms_template_system,sms.template system,model_sms_template,base.group_system,1,1,1,1
